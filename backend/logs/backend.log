@@ -1,0 +1,1338 @@
+7/11/2021, 11:10:25 AM - INFO - Server is running on port: 3030 
+7/11/2021, 11:12:28 AM - INFO - Server is running on port: 3030 | [1,2,3] 
+7/11/2021, 11:15:59 AM - DEBUG - auth.service - login with username: user1 (sid: dn-WrES0bPvq4TMBSWuR_TArrgYAdgXI)
+7/11/2021, 11:16:49 AM - DEBUG - auth.service - login with username: user1 (sid: wXjQlrc80sZb9gCvzPSa98RWyMVX66c8)
+7/11/2021, 11:17:35 AM - DEBUG - auth.service - login with username: user1 (sid: OkquEaAvO0qbJlBEZ7f2HzrPzPZq_tzW)
+7/11/2021, 11:18:13 AM - DEBUG - auth.service - login with username: admin (sid: CgWSuAzW5YlBNk665LdZ96XcljWjR23p)
+7/11/2021, 11:19:36 AM - INFO - Server is running on port: 3030 | [1,2,3] 
+7/11/2021, 11:20:11 AM - DEBUG - auth.service - login with username: user1 (sid: L6wjSI0an-vaMuauPYxp-lZ1pSUU_MZI)
+7/11/2021, 11:21:17 AM - INFO - Server is running on port: 3030 | [1,2,3] 
+7/11/2021, 11:21:39 AM - DEBUG - auth.service - login with username: user1 (sid: fG10vsWIl9RSwc_BVDtDY6nP7EXbEcuM)
+7/11/2021, 11:23:55 AM - INFO - Server is running on port: 3030 | [1,2,3] 
+7/11/2021, 11:24:20 AM - DEBUG - auth.service - login with username: user1 (sid: Me5A1AlC39_mbVgLhwynxi95BllXerbw)
+7/11/2021, 11:27:01 AM - DEBUG - auth.service - login with username: user1 (sid: aPneWtUeh0S1iT2qcNR8dzJL-c46S9v2)
+7/11/2021, 11:28:30 AM - DEBUG - auth.service - login with username: user1 (sid: d8zECP_b-p--VNZfqeonyGsT0WN0ZL9r)
+7/11/2021, 11:31:05 AM - DEBUG - auth.service - login with username: user1 (sid: Q4JMlP8psPnAaL-xkAoJBKBxQIJlfsZa)
+7/11/2021, 11:33:07 AM - DEBUG - auth.service - login with username: user1 (sid: XKJ5q9PyCAT1bqqy77SjAkM8JXzJ7hNn)
+7/11/2021, 11:34:48 AM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/11/2021, 11:35:14 AM - INFO - Server is running on port: 3030 | [1,2,3] 
+7/11/2021, 11:35:23 AM - DEBUG - auth.service - login with username: user1 (sid: C43crVCko_VxMpbuMe5P9ouXdh35NHJ6)
+7/11/2021, 11:36:44 AM - INFO - Server is running on port: 3030 | [1,2,3] 
+7/11/2021, 11:37:19 AM - DEBUG - auth.service - login with username: user1 (sid: W4uNgqp_xxJfTZoL4MjZw5sRsb7gvDBc)
+7/11/2021, 11:39:12 AM - DEBUG - auth.service - login with username: user1 (sid: IcIupNNrRPlCWupkxlAM7kvolzcumt8N)
+7/11/2021, 11:39:57 AM - INFO - Server is running on port: 3030 | [1,2,3] 
+7/11/2021, 11:40:23 AM - DEBUG - auth.service - login with username: user1 (sid: _neMORZ2xGPbqaI5MiOcMxE_oSDppktg)
+7/11/2021, 11:47:51 AM - INFO - Server is running on port: 3030 
+7/11/2021, 11:50:52 AM - INFO - Server is running on port: 3030 
+7/11/2021, 11:51:34 AM - DEBUG - auth.service - login with username: user1 (sid: jhhgjE2y5HQOuzwzqFaMA5o03146s1R2)
+7/11/2021, 11:51:35 AM - INFO - Req from: Puki Normativi (sid: jhhgjE2y5HQOuzwzqFaMA5o03146s1R2)
+7/11/2021, 11:51:44 AM - ERROR - Failed to add review | TypeError: Cannot read property 'sockets' of null (sid: jhhgjE2y5HQOuzwzqFaMA5o03146s1R2)
+7/11/2021, 11:52:15 AM - INFO - Server is running on port: 3030 
+7/11/2021, 11:52:24 AM - DEBUG - auth.service - login with username: user1 (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:52:26 AM - INFO - Req from: Puki Normativi (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:52:31 AM - DEBUG - Shouldnt happen, socket not found (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:52:31 AM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:56:43 AM - DEBUG - auth.service - login with username: user1 (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:56:45 AM - INFO - Req from: Puki Normativi (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:56:50 AM - DEBUG - Shouldnt happen, socket not found (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:56:50 AM - DEBUG - Emiting to user socket: 60e76192bdf13f4f10d94fd6 (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:58:27 AM - DEBUG - auth.service - login with username: admin (sid: DLYwkYCusjiIfQltS0eovUFB2WjaSPfG)
+7/11/2021, 11:58:28 AM - INFO - Req from: Master Adminov (sid: DLYwkYCusjiIfQltS0eovUFB2WjaSPfG)
+7/11/2021, 11:58:41 AM - DEBUG - Shouldnt happen, socket not found (sid: DLYwkYCusjiIfQltS0eovUFB2WjaSPfG)
+7/11/2021, 11:58:41 AM - DEBUG - Emiting to user socket: 60e76192bdf13f4f10d94fd6 (sid: DLYwkYCusjiIfQltS0eovUFB2WjaSPfG)
+7/11/2021, 11:58:48 AM - INFO - Req from: Puki Normativi (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:59:14 AM - DEBUG - Shouldnt happen, socket not found (sid: DLYwkYCusjiIfQltS0eovUFB2WjaSPfG)
+7/11/2021, 11:59:14 AM - DEBUG - Emiting to user socket: 5fd41a4cc9e1452d38257350 (sid: DLYwkYCusjiIfQltS0eovUFB2WjaSPfG)
+7/11/2021, 11:59:19 AM - INFO - Req from: Puki Normativi (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:59:31 AM - DEBUG - Shouldnt happen, socket not found (sid: DLYwkYCusjiIfQltS0eovUFB2WjaSPfG)
+7/11/2021, 11:59:31 AM - DEBUG - Emiting to user socket: 60e76192bdf13f4f10d94fd6 (sid: DLYwkYCusjiIfQltS0eovUFB2WjaSPfG)
+7/11/2021, 11:59:43 AM - INFO - Req from: Puki Normativi (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 11:59:59 AM - WARN - Puki Normativi Attempt to perform admin action (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 12:00:34 PM - INFO - Req from: Puki Normativi (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 12:01:20 PM - INFO - Req from: Puki Normativi (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 12:01:23 PM - DEBUG - Shouldnt happen, socket not found (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 12:01:24 PM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 12:02:09 PM - INFO - Req from: Puki Normativi (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 12:02:13 PM - DEBUG - Shouldnt happen, socket not found (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 12:02:13 PM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: PZ2Hnk33aFGHN1gipj5-tRG2VXgJj0EC)
+7/11/2021, 12:03:36 PM - INFO - Server is running on port: 3030 
+7/11/2021, 12:05:52 PM - INFO - Server is running on port: 3030 
+7/11/2021, 12:08:06 PM - INFO - Server is running on port: 3030 
+7/11/2021, 12:09:50 PM - INFO - Server is running on port: 3030 
+7/11/2021, 12:10:20 PM - INFO - Server is running on port: 3030 
+7/11/2021, 12:16:20 PM - INFO - Server is running on port: 3030 
+7/12/2021, 11:06:59 AM - INFO - Server is running on port: 3030 
+7/12/2021, 11:51:48 AM - INFO - Server is running on port: 3030 
+7/12/2021, 11:56:23 AM - DEBUG - auth.service - login with username: user1 (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:56:25 AM - INFO - Req from: Puki Normativi (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:56:33 AM - DEBUG - Shouldnt happen, socket not found (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:56:33 AM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:56:59 AM - DEBUG - auth.service - login with username: admin (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 11:57:01 AM - INFO - Req from: Master Adminov (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 11:57:13 AM - DEBUG - Shouldnt happen, socket not found (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:57:13 AM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:57:19 AM - INFO - Req from: Master Adminov (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 11:57:19 AM - DEBUG - Setting socket.userId = 5fd41a60c9e1452d38257351 
+7/12/2021, 11:57:24 AM - DEBUG - Shouldnt happen, socket not found (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:57:24 AM - DEBUG - Emiting to user socket: 5fd41a4cc9e1452d38257350 (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:57:30 AM - INFO - Req from: Master Adminov (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 11:57:31 AM - DEBUG - Setting socket.userId = 5fd41a60c9e1452d38257351 
+7/12/2021, 11:58:40 AM - INFO - Req from: Master Adminov (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 11:58:40 AM - DEBUG - Setting socket.userId = 5fd41a60c9e1452d38257351 
+7/12/2021, 11:58:40 AM - INFO - Req from: Puki Normativi (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 11:58:41 AM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/12/2021, 12:00:40 PM - INFO - Req from: Master Adminov (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:00:40 PM - DEBUG - Setting socket.userId = 5fd41a60c9e1452d38257351 
+7/12/2021, 12:00:42 PM - INFO - Req from: Puki Normativi (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:00:42 PM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/12/2021, 12:05:43 PM - DEBUG - auth.service - login with username: user1 (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:05:47 PM - INFO - Req from: Puki Normativi (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:05:58 PM - DEBUG - auth.service - signup with username: y, fullname: Yaron (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:05:58 PM - DEBUG - auth.route - new account created: {"username":"y","password":"$2b$10$xCeo18CabtwbeyCz.ge65ertLmYWXghh7N6uC397To9NkIqHB5lbG","fullname":"Yaron","score":100,"_id":"60ec05f63b62eb2fe4c0854a"} (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:05:58 PM - DEBUG - auth.service - login with username: y (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:05:58 PM - DEBUG - Setting socket.userId = 60ec05f63b62eb2fe4c0854a 
+7/12/2021, 12:06:00 PM - INFO - Req from: Yaron (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:06:25 PM - DEBUG - Shouldnt happen, socket not found (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:06:25 PM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:06:28 PM - INFO - Req from: Puki Normativi (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:06:28 PM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/12/2021, 12:06:30 PM - INFO - Req from: Yaron (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:06:30 PM - DEBUG - Setting socket.userId = 60ec05f63b62eb2fe4c0854a 
+7/12/2021, 12:06:36 PM - DEBUG - broadcast to all but user:  | "5fd41a4cc9e1452d38257350" (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:06:36 PM - DEBUG - Emiting to user socket: 60ec05f63b62eb2fe4c0854a (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:06:53 PM - DEBUG - broadcast to all but user:  | "5fd41a4cc9e1452d38257350" (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:06:53 PM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:06:58 PM - DEBUG - broadcast to all but user:  | "60ec05f63b62eb2fe4c0854a" (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:06:58 PM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:08:52 PM - DEBUG - broadcast to all but user:  | "5fd41a4cc9e1452d38257350" (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:08:52 PM - DEBUG - Emiting to user socket: 60ec05f63b62eb2fe4c0854a (sid: SeSOrK2RNzwvNTk3ex0p8wxwScbRwqIw)
+7/12/2021, 12:10:03 PM - DEBUG - broadcast to all but user:  | "60ec05f63b62eb2fe4c0854a" (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:10:03 PM - DEBUG - Emiting to user socket: 5fd41a60c9e1452d38257351 (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:19:51 PM - INFO - Req from: Yaron (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:19:51 PM - DEBUG - Setting socket.userId = 60ec05f63b62eb2fe4c0854a 
+7/12/2021, 12:19:52 PM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/12/2021, 12:20:07 PM - INFO - Req from: Yaron (sid: 4iCKZcfJg5PKi8SQI-pKLImzxjf75TxI)
+7/12/2021, 12:20:07 PM - DEBUG - Setting socket.userId = 60ec05f63b62eb2fe4c0854a 
+7/12/2021, 12:20:08 PM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/12/2021, 12:20:38 PM - DEBUG - Setting socket.userId = 60ec05f63b62eb2fe4c0854a 
+7/12/2021, 12:20:40 PM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/12/2021, 12:21:00 PM - DEBUG - Setting socket.userId = 60ec05f63b62eb2fe4c0854a 
+7/12/2021, 12:21:01 PM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/12/2021, 12:21:09 PM - DEBUG - Setting socket.userId = 5fd41a4cc9e1452d38257350 
+7/12/2021, 12:21:49 PM - DEBUG - Setting socket.userId = 60ec05f63b62eb2fe4c0854a 
+7/12/2021, 12:22:35 PM - DEBUG - Setting socket.userId = kJtnk 
+7/12/2021, 12:23:05 PM - DEBUG - Setting socket.userId = kJtnk 
+7/12/2021, 12:23:10 PM - DEBUG - Setting socket.userId = kJtnk 
+20/07/2021, 17:13:24 - INFO - Server is running on port: 3030 
+20/07/2021, 17:38:55 - INFO - Server is running on port: 3030 
+20/07/2021, 17:39:59 - INFO - Server is running on port: 3030 
+22/07/2021, 11:06:04 - INFO - Server is running on port: 3030 
+22/07/2021, 11:31:20 - INFO - Server is running on port: 3030 
+22/07/2021, 11:31:24 - INFO - Server is running on port: 3030 
+22/07/2021, 11:37:32 - INFO - Server is running on port: 3030 
+22/07/2021, 11:38:48 - INFO - Server is running on port: 3030 
+22/07/2021, 11:46:01 - INFO - Server is running on port: 3030 
+22/07/2021, 11:47:27 - INFO - Server is running on port: 3030 
+22/07/2021, 11:47:33 - INFO - Server is running on port: 3030 
+22/07/2021, 11:47:43 - INFO - Server is running on port: 3030 
+22/07/2021, 11:48:50 - INFO - Server is running on port: 3030 
+22/07/2021, 11:50:19 - INFO - Server is running on port: 3030 
+22/07/2021, 11:50:36 - INFO - Server is running on port: 3030 
+22/07/2021, 12:27:14 - INFO - Server is running on port: 3030 
+22/07/2021, 12:27:20 - INFO - Server is running on port: 3030 
+22/07/2021, 12:27:27 - INFO - Server is running on port: 3030 
+22/07/2021, 12:27:33 - INFO - Server is running on port: 3030 
+22/07/2021, 12:29:22 - INFO - Server is running on port: 3030 
+22/07/2021, 12:30:19 - INFO - Server is running on port: 3030 
+22/07/2021, 12:31:40 - INFO - Server is running on port: 3030 
+22/07/2021, 12:32:14 - INFO - Server is running on port: 3030 
+22/07/2021, 12:32:56 - INFO - Server is running on port: 3030 
+22/07/2021, 12:37:03 - INFO - Server is running on port: 3030 
+22/07/2021, 12:37:13 - INFO - Server is running on port: 3030 
+22/07/2021, 13:01:46 - INFO - Server is running on port: 3030 
+22/07/2021, 13:02:26 - INFO - Server is running on port: 3030 
+22/07/2021, 13:05:37 - INFO - Server is running on port: 3030 
+22/07/2021, 13:33:46 - INFO - Server is running on port: 3030 
+22/07/2021, 13:34:36 - DEBUG - auth.service - login with username: Shelter1 (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:36 - ERROR - Failed to Login Error: data and hash must be strings (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:39 - DEBUG - auth.service - login with username: Shelter1 (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:39 - ERROR - Failed to Login Error: data and hash must be strings (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:42 - DEBUG - auth.service - login with username: Shelter1 (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:42 - ERROR - Failed to Login Error: data and hash must be strings (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:43 - DEBUG - auth.service - login with username: Shelter1 (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:43 - ERROR - Failed to Login Error: data and hash must be strings (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:45 - DEBUG - auth.service - login with username: Shelter1 (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:46 - ERROR - Failed to Login Error: data and hash must be strings (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:47 - DEBUG - auth.service - login with username: Shelter1 (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:34:47 - ERROR - Failed to Login Error: data and hash must be strings (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:38:11 - DEBUG - auth.service - login with username: Shelter1 (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:38:11 - ERROR - Failed to Login Error: data and hash must be strings (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:38:12 - DEBUG - auth.service - login with username: Shelter1 (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:38:12 - ERROR - Failed to Login Error: data and hash must be strings (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 13:38:21 - DEBUG - auth.service - login with username: Animal Resque (sid: U1yBSQUkEf6pshTls8Vrd8DKUaeiHl0v)
+22/07/2021, 15:23:41 - INFO - Server is running on port: 3030 
+22/07/2021, 15:24:13 - INFO - Server is running on port: 3030 
+22/07/2021, 15:24:32 - INFO - Server is running on port: 3030 
+22/07/2021, 15:25:58 - INFO - Server is running on port: 3030 
+22/07/2021, 15:28:59 - DEBUG - auth.service - signup with username: Alex, fullname: Alex (sid: avDxj0iPRV4LKlIHMJX0DVEpI4CqHFX0)
+22/07/2021, 15:28:59 - DEBUG - auth.route - new account created: {"username":"Alex","password":"$2b$10$kkdW39YCRHXrV/DdLNiAOu2CD5fyj29bzlbNnpvY/iAabxRJ3bRfS","fullname":"Alex","isAdmin":false,"_id":"60f9648b65b490372862741c"} (sid: avDxj0iPRV4LKlIHMJX0DVEpI4CqHFX0)
+22/07/2021, 15:28:59 - DEBUG - auth.service - login with username: Alex (sid: avDxj0iPRV4LKlIHMJX0DVEpI4CqHFX0)
+22/07/2021, 15:54:06 - INFO - Server is running on port: 3030 
+22/07/2021, 15:56:22 - INFO - Server is running on port: 3030 
+22/07/2021, 15:57:19 - INFO - Server is running on port: 3030 
+22/07/2021, 15:57:38 - DEBUG - auth.service - login with username: Alex (sid: yoIf7Fw2S-7bjgffZR_QBTw5c-3lHnOA)
+22/07/2021, 15:58:33 - INFO - Server is running on port: 3030 
+22/07/2021, 15:59:03 - INFO - Server is running on port: 3030 
+22/07/2021, 15:59:44 - INFO - Server is running on port: 3030 
+22/07/2021, 16:00:50 - INFO - Server is running on port: 3030 
+22/07/2021, 16:01:04 - DEBUG - auth.service - login with username: Alex (sid: gm3n2YqU3rMoiFq9jjZ7FgrMrY5-wXl5)
+22/07/2021, 16:02:55 - INFO - Server is running on port: 3030 
+22/07/2021, 16:03:13 - DEBUG - auth.service - login with username: Alex (sid: 2IMox0F0t_GM_ZBjFC55Tj3lnbRsZhgv)
+22/07/2021, 16:04:05 - INFO - Server is running on port: 3030 
+22/07/2021, 16:22:00 - DEBUG - auth.service - login with username: Alex (sid: WVUTfXdeaehzf3C78kFETrc_Z4j92DZ5)
+22/07/2021, 16:26:50 - DEBUG - auth.service - login with username: Alex (sid: WVUTfXdeaehzf3C78kFETrc_Z4j92DZ5)
+22/07/2021, 16:32:30 - DEBUG - auth.service - login with username: ARC (sid: WVUTfXdeaehzf3C78kFETrc_Z4j92DZ5)
+22/07/2021, 16:34:35 - DEBUG - auth.service - login with username: ARC (sid: WVUTfXdeaehzf3C78kFETrc_Z4j92DZ5)
+22/07/2021, 16:34:59 - DEBUG - auth.service - login with username: Alex (sid: WVUTfXdeaehzf3C78kFETrc_Z4j92DZ5)
+22/07/2021, 17:10:36 - INFO - Server is running on port: 3030 
+22/07/2021, 17:11:43 - INFO - Server is running on port: 3030 
+22/07/2021, 21:22:44 - INFO - Server is running on port: 3030 
+22/07/2021, 21:24:58 - DEBUG - auth.service - login with username: Alex (sid: 6ZIHd_8Mx7b6z0IS1m5XUp0m4TeG2AYM)
+22/07/2021, 21:24:59 - ERROR - Failed to Login Invalid username or password (sid: 6ZIHd_8Mx7b6z0IS1m5XUp0m4TeG2AYM)
+22/07/2021, 21:25:43 - DEBUG - auth.service - login with username: Alex (sid: 6ZIHd_8Mx7b6z0IS1m5XUp0m4TeG2AYM)
+23/07/2021, 9:40:10 - INFO - Server is running on port: 3030 
+23/07/2021, 9:41:23 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 9:41:24 - ERROR - Failed to Login Invalid username or password (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 9:41:28 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 11:56:05 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 12:15:16 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 12:44:17 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:05:26 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:13:02 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:15:32 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:16:19 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:51:17 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:51:17 - ERROR - Failed to Login Invalid username or password (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:51:20 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:52:46 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 13:54:44 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 14:05:11 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 14:10:00 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 15:19:01 - ERROR - Failed to get user | ReferenceError: logger is not defined (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+23/07/2021, 16:04:39 - DEBUG - auth.service - login with username: Alex (sid: q9jMbCTuvbFMBSw-YXg2wOcNM6O0kTgP)
+24/07/2021, 10:28:05 - INFO - Server is running on port: 3030 
+24/07/2021, 10:34:34 - DEBUG - auth.service - login with username: ARC (sid: 8TPq8A11awQs-f7t4NTTJ2aXJUrZ1Qz6)
+24/07/2021, 10:34:34 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 10:35:31 - INFO - Server is running on port: 3030 
+24/07/2021, 10:35:39 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 10:37:02 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 10:38:17 - DEBUG - auth.service - login with username: ARC (sid: f2t7uWLOGsOA0knkeTgVk4r7ntilaqYI)
+24/07/2021, 10:38:17 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 10:38:37 - INFO - Server is running on port: 3030 
+24/07/2021, 10:39:06 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 10:39:44 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 10:41:35 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 15:23:19 - INFO - Server is running on port: 3030 
+24/07/2021, 15:45:26 - INFO - Server is running on port: 3030 
+24/07/2021, 15:49:17 - DEBUG - auth.service - login with username: Alex (sid: pebW4E8UO5I2W7ZRLM5-JWlbwHdP7nQf)
+24/07/2021, 15:50:35 - DEBUG - auth.service - login with username: Alex (sid: pebW4E8UO5I2W7ZRLM5-JWlbwHdP7nQf)
+24/07/2021, 15:50:44 - INFO - Server is running on port: 3030 
+24/07/2021, 15:51:11 - DEBUG - auth.service - login with username: Alex (sid: RS_t6-v2YMiIMEk4dy8p9rjEFKmbS-0i)
+24/07/2021, 15:51:13 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 15:55:40 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 15:56:16 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 15:58:30 - DEBUG - auth.service - login with username: ARC (sid: RS_t6-v2YMiIMEk4dy8p9rjEFKmbS-0i)
+24/07/2021, 15:58:30 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 16:08:34 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 16:09:21 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 16:14:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 16:18:24 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 16:18:27 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 17:47:19 - INFO - Server is running on port: 3030 
+24/07/2021, 17:47:45 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 17:48:10 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 17:48:58 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 17:50:09 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 17:54:45 - DEBUG - auth.service - login with username: Alex (sid: -dG5pIH8OKP8Cmih3FvyyQH-fyM5b6R5)
+24/07/2021, 17:54:46 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 17:56:37 - INFO - Server is running on port: 3030 
+24/07/2021, 17:57:08 - INFO - Server is running on port: 3030 
+24/07/2021, 17:59:20 - DEBUG - auth.service - login with username: Alex (sid: gFyuSGgngN6n-MUzQ22gUMju7xiaGuXZ)
+24/07/2021, 17:59:20 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 18:05:19 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 18:24:44 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 18:26:18 - INFO - Server is running on port: 3030 
+24/07/2021, 19:46:06 - INFO - Server is running on port: 3030 
+24/07/2021, 19:47:43 - DEBUG - auth.service - login with username: Alex (sid: WtolhEUmz2DPWeR_4tB1WhwVxgTy3jvv)
+24/07/2021, 19:47:43 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 19:56:47 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 20:01:40 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 20:19:33 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 20:20:12 - DEBUG - auth.service - login with username: ARC (sid: WtolhEUmz2DPWeR_4tB1WhwVxgTy3jvv)
+24/07/2021, 20:20:12 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 20:56:29 - DEBUG - Emiting to user socket: 60fa89a5241fde3e940b079e 
+24/07/2021, 21:26:34 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 21:34:39 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 21:40:56 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:03:56 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:04:48 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:05:19 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:06:51 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:08:38 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:13:03 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:14:32 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:17:38 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:19:59 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:20:55 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:24:45 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:30:47 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:36:47 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+24/07/2021, 22:46:12 - ERROR - cannot update pet 60f950b3c5e0152af575ea8c | MongoServerSelectionError: getaddrinfo ENOTFOUND cluster0-shard-00-00.j1rsu.mongodb.net (sid: WtolhEUmz2DPWeR_4tB1WhwVxgTy3jvv)
+24/07/2021, 22:46:12 - ERROR - Faild to update pet | MongoServerSelectionError: getaddrinfo ENOTFOUND cluster0-shard-00-00.j1rsu.mongodb.net (sid: WtolhEUmz2DPWeR_4tB1WhwVxgTy3jvv)
+24/07/2021, 22:53:54 - DEBUG - auth.service - login with username: Alex (sid: WtolhEUmz2DPWeR_4tB1WhwVxgTy3jvv)
+24/07/2021, 22:53:55 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 22:55:38 - DEBUG - auth.service - login with username: Alex (sid: WtolhEUmz2DPWeR_4tB1WhwVxgTy3jvv)
+24/07/2021, 22:55:38 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 22:58:10 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 22:58:51 - DEBUG - auth.service - login with username: Alex (sid: WtolhEUmz2DPWeR_4tB1WhwVxgTy3jvv)
+24/07/2021, 22:58:51 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 23:03:02 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 23:07:00 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+24/07/2021, 23:09:45 - DEBUG - auth.service - login with username: Alex (sid: WtolhEUmz2DPWeR_4tB1WhwVxgTy3jvv)
+24/07/2021, 23:09:45 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 8:37:35 - INFO - Server is running on port: 3030 
+25/07/2021, 8:39:32 - DEBUG - auth.service - login with username: Alex (sid: -Z0XNRK681zpdsQRbmu8siqRqmZveiWo)
+25/07/2021, 8:39:32 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 8:40:59 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 8:43:22 - DEBUG - auth.service - login with username: Alex (sid: -Z0XNRK681zpdsQRbmu8siqRqmZveiWo)
+25/07/2021, 8:43:22 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 8:46:25 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 9:00:49 - INFO - Server is running on port: 3030 
+25/07/2021, 9:05:46 - INFO - Server is running on port: 3030 
+25/07/2021, 9:07:33 - DEBUG - auth.service - login with username: ARC (sid: nDzQtqeNK4-QAD7va5MPXR7ZsIUyYiFZ)
+25/07/2021, 9:07:36 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:07:42 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:10:13 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:10:19 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:10:37 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:16:48 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:19:36 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:20:32 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:21:51 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:27:01 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:27:52 - DEBUG - auth.service - login with username: Alex (sid: nDzQtqeNK4-QAD7va5MPXR7ZsIUyYiFZ)
+25/07/2021, 9:27:53 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 9:28:13 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 9:28:30 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 9:58:27 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 10:39:57 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 10:41:24 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 10:47:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 10:48:16 - DEBUG - auth.service - login with username: Alex (sid: nDzQtqeNK4-QAD7va5MPXR7ZsIUyYiFZ)
+25/07/2021, 10:48:17 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 10:50:27 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 10:51:07 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 11:42:14 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 11:43:05 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 11:46:01 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 11:50:26 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 11:50:31 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 11:51:33 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 12:27:45 - DEBUG - auth.service - login with username: Alex (sid: QpTUHpwrudltNHjaM9Lui-H8jgw5ccmQ)
+25/07/2021, 12:27:46 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 12:27:51 - DEBUG - auth.service - login with username: ARC (sid: QpTUHpwrudltNHjaM9Lui-H8jgw5ccmQ)
+25/07/2021, 12:27:51 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 12:28:04 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 12:28:47 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 12:30:16 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 12:34:18 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 12:34:22 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 12:34:27 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 12:37:34 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 12:37:55 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:31:01 - INFO - Server is running on port: 3030 
+25/07/2021, 13:32:34 - INFO - Server is running on port: 3030 
+25/07/2021, 13:33:56 - DEBUG - auth.service - login with username: Alex (sid: Mjlnl2w6wn8l88CF0W1JmxrnbcFgUCvc)
+25/07/2021, 13:33:56 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 13:35:44 - INFO - Server is running on port: 3030 
+25/07/2021, 13:36:06 - DEBUG - auth.service - login with username: Alex (sid: aw8Ljcz84FFVPlFD6eu8dW_m1BmQ25hy)
+25/07/2021, 13:36:06 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 13:36:11 - DEBUG - auth.service - login with username: ARC (sid: aw8Ljcz84FFVPlFD6eu8dW_m1BmQ25hy)
+25/07/2021, 13:36:11 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:41:30 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:42:20 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:42:20 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:44:18 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:44:38 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:44:38 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:45:19 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:45:25 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:45:25 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:46:04 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:46:11 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:46:11 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:46:32 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:46:38 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:46:38 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:46:55 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:47:19 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:47:19 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:51:09 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:51:13 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:51:13 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:51:33 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 13:51:49 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 13:51:49 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 14:13:30 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 14:15:00 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 14:15:10 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:15:10 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:26:51 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:32:18 - INFO - Server is running on port: 3030 
+25/07/2021, 14:32:57 - INFO - Server is running on port: 3030 
+25/07/2021, 14:33:36 - DEBUG - auth.service - login with username: ARC (sid: wdO1oTN6BcsZAK2TJF3eCjWx_2OlMde7)
+25/07/2021, 14:33:36 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:33:42 - DEBUG - auth.service - login with username: Alex (sid: wdO1oTN6BcsZAK2TJF3eCjWx_2OlMde7)
+25/07/2021, 14:33:42 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 14:37:30 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:38:43 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 14:38:43 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 14:39:56 - DEBUG - auth.service - login with username: Alex (sid: hUJ0P1f0LfyRUDP-jlDT0HXTx6IcXijp)
+25/07/2021, 14:39:56 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 14:40:35 - DEBUG - auth.service - login with username: ARC (sid: hUJ0P1f0LfyRUDP-jlDT0HXTx6IcXijp)
+25/07/2021, 14:40:35 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:40:41 - DEBUG - auth.service - login with username: Alex (sid: hUJ0P1f0LfyRUDP-jlDT0HXTx6IcXijp)
+25/07/2021, 14:40:41 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 14:41:16 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 14:41:47 - INFO - Server is running on port: 3030 
+25/07/2021, 14:42:29 - DEBUG - auth.service - login with username: Alex (sid: cq6wOgUYQKn6ZLOyA17285GyxT9KDgi5)
+25/07/2021, 14:42:31 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 14:42:35 - DEBUG - auth.service - login with username: ARC (sid: cq6wOgUYQKn6ZLOyA17285GyxT9KDgi5)
+25/07/2021, 14:42:36 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:42:56 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 14:42:58 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:42:58 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:49:52 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 14:53:14 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 14:53:14 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:03:52 - INFO - Server is running on port: 3030 
+25/07/2021, 15:04:36 - INFO - Server is running on port: 3030 
+25/07/2021, 15:04:46 - DEBUG - auth.service - login with username: Alex (sid: A__3JjEZ72gad4xO0DB2ifRodDnYt7Jg)
+25/07/2021, 15:04:48 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 15:05:20 - DEBUG - auth.service - login with username: Alex (sid: A__3JjEZ72gad4xO0DB2ifRodDnYt7Jg)
+25/07/2021, 15:05:20 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 15:05:28 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:05:46 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:06:04 - DEBUG - auth.service - login with username: Alex (sid: A__3JjEZ72gad4xO0DB2ifRodDnYt7Jg)
+25/07/2021, 15:06:04 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 15:06:23 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:06:23 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:07:18 - INFO - Server is running on port: 3030 
+25/07/2021, 15:07:57 - DEBUG - auth.service - login with username: Alex (sid: yjSORPyl6npjFHtuBKuN7HBYRM8A7VYE)
+25/07/2021, 15:07:59 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 15:10:10 - INFO - Server is running on port: 3030 
+25/07/2021, 15:11:13 - INFO - Server is running on port: 3030 
+25/07/2021, 15:11:48 - DEBUG - auth.service - login with username: Alex (sid: fIOOr3XCPiqq9u5eyG1XnIr44t3hiS8z)
+25/07/2021, 15:11:48 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+25/07/2021, 15:12:06 - DEBUG - auth.service - login with username: ARC (sid: fIOOr3XCPiqq9u5eyG1XnIr44t3hiS8z)
+25/07/2021, 15:12:06 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:13:32 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:14:46 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:14:46 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:15:32 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:15:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:15:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:17:28 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:18:11 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:18:11 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:23:38 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:23:40 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:23:40 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:25:02 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:25:50 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:25:50 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:28:30 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:28:32 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:28:32 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:30:10 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:30:55 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:30:55 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:33:33 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:33:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:33:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:35:07 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:35:51 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:35:51 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:38:53 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:38:56 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:38:56 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:49:44 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:50:29 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:50:29 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:51:21 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:51:22 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:51:22 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:54:09 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:54:57 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:54:57 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:58:29 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 15:58:33 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:58:33 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 15:59:51 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 16:00:40 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 16:00:40 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 16:03:34 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 16:03:37 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 16:03:37 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 17:10:08 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 17:10:48 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 17:10:48 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 17:21:15 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+25/07/2021, 17:21:19 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 17:21:19 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+25/07/2021, 17:22:04 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 9:09:57 - INFO - Server is running on port: 3030 
+26/07/2021, 9:13:25 - INFO - Server is running on port: 3030 
+26/07/2021, 9:31:44 - INFO - Server is running on port: 3030 
+26/07/2021, 9:33:05 - DEBUG - auth.service - login with username: Alex (sid: GW51X8Om2r3hCg6b9gK5uPD5MTGRLWWZ)
+26/07/2021, 9:33:06 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 9:33:11 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 9:33:20 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 9:33:20 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 10:01:49 - INFO - Server is running on port: 3030 
+26/07/2021, 10:03:12 - INFO - Server is running on port: 3030 
+26/07/2021, 12:29:31 - INFO - Server is running on port: 3030 
+26/07/2021, 12:30:24 - DEBUG - auth.service - login with username: Alex (sid: vNxiFhhf3lKYdlayGxHuJCysTSUSrdyQ)
+26/07/2021, 12:30:24 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 15:13:19 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 16:44:31 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 16:44:31 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 16:44:45 - DEBUG - auth.service - login with username: ARC (sid: vNxiFhhf3lKYdlayGxHuJCysTSUSrdyQ)
+26/07/2021, 16:44:45 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 16:44:59 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 17:26:42 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 17:27:18 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 17:27:18 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 17:30:22 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 17:30:31 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 17:30:31 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 17:34:58 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 17:49:47 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 17:59:12 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:07:27 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:08:03 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:23:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:41:34 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:50:58 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:51:12 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 18:51:13 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 18:52:09 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 18:52:24 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:52:24 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:53:22 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:54:54 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:55:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:55:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:55:43 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:56:10 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:56:10 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:59:37 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:59:44 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 18:59:44 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:01:18 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:02:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:02:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:02:46 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:07:55 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:13:42 - DEBUG - auth.service - login with username: ARC (sid: vNxiFhhf3lKYdlayGxHuJCysTSUSrdyQ)
+26/07/2021, 19:13:43 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:13:48 - DEBUG - auth.service - login with username: Alex (sid: vNxiFhhf3lKYdlayGxHuJCysTSUSrdyQ)
+26/07/2021, 19:13:48 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 19:14:03 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:15:21 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:15:47 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:16:04 - DEBUG - auth.service - login with username: ARC (sid: vNxiFhhf3lKYdlayGxHuJCysTSUSrdyQ)
+26/07/2021, 19:16:05 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:16:11 - DEBUG - auth.service - login with username: Alex (sid: vNxiFhhf3lKYdlayGxHuJCysTSUSrdyQ)
+26/07/2021, 19:16:11 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 19:17:56 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:19:51 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:20:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:21:04 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:22:31 - INFO - Server is running on port: 3030 
+26/07/2021, 19:24:49 - DEBUG - auth.service - login with username: ARC (sid: MCumb4_pxQnhTkvdUbJqfI53pokCeqfL)
+26/07/2021, 19:24:50 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:24:57 - DEBUG - auth.service - login with username: Alex (sid: MCumb4_pxQnhTkvdUbJqfI53pokCeqfL)
+26/07/2021, 19:24:57 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 19:25:27 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:25:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:25:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:27:11 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:28:26 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:28:33 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:28:33 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:31:04 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:31:04 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:31:36 - DEBUG - auth.service - login with username: Alex (sid: MCumb4_pxQnhTkvdUbJqfI53pokCeqfL)
+26/07/2021, 19:31:36 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 19:31:41 - DEBUG - auth.service - login with username: ARC (sid: MCumb4_pxQnhTkvdUbJqfI53pokCeqfL)
+26/07/2021, 19:31:42 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:32:01 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:32:16 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:32:16 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:33:49 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:33:49 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:39:51 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:39:51 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:41:32 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:42:04 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:44:35 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:45:50 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:45:50 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:46:57 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 19:47:49 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:47:49 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:56:47 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:58:42 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:58:42 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:59:01 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:59:13 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 19:59:13 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:10:44 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:10:54 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:11:21 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:12:03 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:12:03 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:13:46 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:14:14 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:14:53 - DEBUG - auth.service - login with username: Alex (sid: MCumb4_pxQnhTkvdUbJqfI53pokCeqfL)
+26/07/2021, 20:14:53 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 20:14:59 - DEBUG - auth.service - login with username: ARC (sid: MCumb4_pxQnhTkvdUbJqfI53pokCeqfL)
+26/07/2021, 20:14:59 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:15:27 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:15:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:15:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:20:04 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:20:29 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:20:29 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:22:34 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:22:34 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:23:20 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:23:45 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:23:45 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:27:55 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:28:09 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:29:03 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:29:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:29:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:30:05 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:30:05 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:30:29 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:30:44 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:34:58 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:34:58 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:36:50 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:37:04 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:37:04 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:38:01 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:38:46 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:39:02 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:39:02 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:39:36 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:40:05 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:40:05 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:40:30 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:40:49 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:40:49 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:41:30 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:47:27 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:47:54 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 20:48:59 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 20:48:59 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:00:56 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:00:56 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:02:48 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:03:33 - INFO - Server is running on port: 3030 
+26/07/2021, 21:09:42 - DEBUG - auth.service - login with username: ARC (sid: zT_R_gSK4wSxk9xShd6C_me7ronhQJnD)
+26/07/2021, 21:09:42 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:09:49 - DEBUG - auth.service - login with username: Alex (sid: zT_R_gSK4wSxk9xShd6C_me7ronhQJnD)
+26/07/2021, 21:09:50 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 21:10:23 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:11:18 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:11:50 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:11:50 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:11:51 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:12:30 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:12:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:12:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:12:40 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:13:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:13:47 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:13:47 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:13:48 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:16:53 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:18:32 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:18:32 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:18:33 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:19:15 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:19:28 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:19:28 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:19:29 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:19:59 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:20:30 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:20:44 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:20:44 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:20:45 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:21:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:21:56 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:21:56 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:21:57 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:31:47 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:31:48 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:31:49 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:33:13 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:33:35 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:33:35 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:33:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:34:10 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:34:10 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:34:11 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:35:24 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:35:41 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:35:41 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:35:42 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:36:05 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:36:28 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:36:28 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:36:29 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:37:15 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:37:15 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:37:16 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:37:37 - DEBUG - auth.service - login with username: Alex (sid: zT_R_gSK4wSxk9xShd6C_me7ronhQJnD)
+26/07/2021, 21:37:38 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 21:37:52 - DEBUG - auth.service - login with username: ARC (sid: zT_R_gSK4wSxk9xShd6C_me7ronhQJnD)
+26/07/2021, 21:37:52 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:38:01 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:38:10 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:38:10 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:38:11 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:38:43 - INFO - Server is running on port: 3030 
+26/07/2021, 21:41:53 - INFO - Server is running on port: 3030 
+26/07/2021, 21:42:25 - ERROR - cannot find pets (sid: 91RPz_Ukjawe1sGjrmENd60ZBVBvz3SX)
+26/07/2021, 21:42:25 - ERROR - Failed to get pets | ReferenceError: logger is not defined (sid: 91RPz_Ukjawe1sGjrmENd60ZBVBvz3SX)
+26/07/2021, 21:42:25 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: H1cBPGIMCuVtpqT7jPKbjv1DS5VK5qxL)
+26/07/2021, 21:42:27 - ERROR - cannot find pets (sid: H1cBPGIMCuVtpqT7jPKbjv1DS5VK5qxL)
+26/07/2021, 21:42:27 - ERROR - Failed to get pets | ReferenceError: logger is not defined (sid: H1cBPGIMCuVtpqT7jPKbjv1DS5VK5qxL)
+26/07/2021, 21:42:27 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: H1cBPGIMCuVtpqT7jPKbjv1DS5VK5qxL)
+26/07/2021, 21:42:43 - ERROR - cannot find pets (sid: PHIBdwcgNJ9gayKAgcX7dKv4R0NwIG0f)
+26/07/2021, 21:42:43 - ERROR - Failed to get pets | ReferenceError: logger is not defined (sid: PHIBdwcgNJ9gayKAgcX7dKv4R0NwIG0f)
+26/07/2021, 21:42:43 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: moA3P44498-rDaF6WlOWeLznnYHzegxL)
+26/07/2021, 21:42:44 - ERROR - cannot find pets (sid: moA3P44498-rDaF6WlOWeLznnYHzegxL)
+26/07/2021, 21:42:44 - ERROR - Failed to get pets | ReferenceError: logger is not defined (sid: moA3P44498-rDaF6WlOWeLznnYHzegxL)
+26/07/2021, 21:42:44 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: moA3P44498-rDaF6WlOWeLznnYHzegxL)
+26/07/2021, 21:45:09 - INFO - Server is running on port: 3030 
+26/07/2021, 21:46:53 - DEBUG - auth.service - login with username: Alex (sid: VRNR3o8n1P1OWtf3_AVrYO72Eov2DODQ)
+26/07/2021, 21:46:54 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 21:47:23 - DEBUG - auth.service - login with username: ARC (sid: VRNR3o8n1P1OWtf3_AVrYO72Eov2DODQ)
+26/07/2021, 21:47:23 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:47:46 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:48:13 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:48:25 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:48:25 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:48:26 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:48:42 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 21:48:58 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:48:58 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 21:48:59 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:04:51 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:05:02 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:05:02 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:05:03 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:05:31 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:05:52 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:06:03 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:06:03 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:06:04 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:06:14 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:06:14 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:06:15 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:08:45 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:08:45 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:08:46 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:11:14 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:11:14 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:11:15 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:23:11 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:23:11 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:23:12 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:25:07 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:25:07 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:25:08 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:27:36 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:27:36 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:27:37 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:31:21 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:32:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:34:02 - INFO - Server is running on port: 3030 
+26/07/2021, 22:34:38 - INFO - Server is running on port: 3030 
+26/07/2021, 22:34:46 - DEBUG - auth.service - login with username: Alex (sid: ThvYgptVMHb7wxcvi4SKkQxUCm7yZZi3)
+26/07/2021, 22:34:48 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 22:35:05 - DEBUG - auth.service - login with username: ARC (sid: ThvYgptVMHb7wxcvi4SKkQxUCm7yZZi3)
+26/07/2021, 22:35:05 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:35:18 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:35:32 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:35:53 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:35:53 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:35:54 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:38:32 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:38:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:38:35 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:38:36 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:38:53 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:39:14 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:39:14 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:39:15 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:39:52 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:40:06 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:40:27 - DEBUG - auth.service - login with username: Alex (sid: ThvYgptVMHb7wxcvi4SKkQxUCm7yZZi3)
+26/07/2021, 22:40:27 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 22:40:32 - DEBUG - auth.service - login with username: ARC (sid: ThvYgptVMHb7wxcvi4SKkQxUCm7yZZi3)
+26/07/2021, 22:40:32 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:40:39 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:41:13 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:41:39 - INFO - Server is running on port: 3030 
+26/07/2021, 22:42:45 - DEBUG - auth.service - login with username: Alex (sid: liwBQVZvVD45a3LrZax1FnD_4Q_RVXBD)
+26/07/2021, 22:42:48 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 22:42:53 - DEBUG - auth.service - login with username: Alex (sid: liwBQVZvVD45a3LrZax1FnD_4Q_RVXBD)
+26/07/2021, 22:42:53 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 22:43:01 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:43:23 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:43:51 - DEBUG - auth.service - login with username: ARC (sid: liwBQVZvVD45a3LrZax1FnD_4Q_RVXBD)
+26/07/2021, 22:43:51 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:44:02 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:44:06 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:44:06 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:44:07 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:44:22 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:44:43 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:44:43 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:44:44 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:45:28 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:45:36 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:45:36 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:45:37 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:46:30 - INFO - Server is running on port: 3030 
+26/07/2021, 22:46:51 - DEBUG - auth.service - login with username: Alex (sid: dr2pobK-0Oo8dBSrdylf1Q0tr8XYrxeW)
+26/07/2021, 22:46:53 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+26/07/2021, 22:47:07 - DEBUG - auth.service - login with username: ARC (sid: dr2pobK-0Oo8dBSrdylf1Q0tr8XYrxeW)
+26/07/2021, 22:47:07 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:47:16 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+26/07/2021, 22:47:35 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:47:35 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+26/07/2021, 22:47:36 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+31/07/2021, 8:51:52 - INFO - Server is running on port: 3030 
+31/07/2021, 8:58:52 - DEBUG - auth.service - login with username: Alex (sid: ddZv2guMFrLWMCpaDZZjadzEUZ6XYSJl)
+31/07/2021, 8:58:53 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+31/07/2021, 9:00:40 - DEBUG - auth.service - login with username: Alex (sid: ddZv2guMFrLWMCpaDZZjadzEUZ6XYSJl)
+31/07/2021, 9:00:40 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+31/07/2021, 9:01:28 - DEBUG - auth.service - login with username: Alex (sid: ddZv2guMFrLWMCpaDZZjadzEUZ6XYSJl)
+31/07/2021, 9:01:28 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+31/07/2021, 9:25:58 - DEBUG - auth.service - login with username: Alex (sid: ddZv2guMFrLWMCpaDZZjadzEUZ6XYSJl)
+31/07/2021, 9:26:00 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+31/07/2021, 10:28:29 - DEBUG - auth.service - login with username: Alex (sid: ddZv2guMFrLWMCpaDZZjadzEUZ6XYSJl)
+31/07/2021, 10:28:31 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+31/07/2021, 10:28:39 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+31/07/2021, 10:30:58 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+28/08/2021, 10:35:03 - INFO - Server is running on port: 3030 
+28/08/2021, 11:23:27 - DEBUG - auth.service - login with username: Alex (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:30 - DEBUG - auth.service - login with username: Alex (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:33 - DEBUG - auth.service - login with username: Alex (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:44 - DEBUG - auth.service - login with username: Alex (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:47 - DEBUG - auth.service - login with username: Alex (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:47 - DEBUG - auth.service - login with username: Alex (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:52 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:52 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:52 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:53 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:54 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:23:54 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:24:01 - DEBUG - auth.service - login with username: A.SOS (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:24:02 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:24:08 - DEBUG - auth.service - login with username: ARC (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:24:09 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:24:35 - DEBUG - auth.service - login with username: Alex (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 11:24:36 - ERROR - Failed to Login Invalid username or password (sid: 7msHsmEqygfeZ0rTRKfCfHv9l7H9VqEj)
+28/08/2021, 12:04:42 - INFO - Server is running on port: 3030 
+28/08/2021, 12:07:11 - DEBUG - auth.service - login with username: Alex (sid: j-sYdAn7OGlLkG6m2Sc3N6lXbYB7oRIn)
+28/08/2021, 12:07:11 - ERROR - Failed to Login Invalid username or password (sid: j-sYdAn7OGlLkG6m2Sc3N6lXbYB7oRIn)
+28/08/2021, 12:07:42 - DEBUG - auth.service - login with username: A.SOS (sid: j-sYdAn7OGlLkG6m2Sc3N6lXbYB7oRIn)
+28/08/2021, 12:07:43 - ERROR - Failed to Login Invalid username or password (sid: j-sYdAn7OGlLkG6m2Sc3N6lXbYB7oRIn)
+28/08/2021, 12:10:00 - DEBUG - auth.service - login with username: Alex (sid: QYvJVA06VgUp8CHwL4a0IWWBbFLfuK5E)
+28/08/2021, 12:10:02 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+28/08/2021, 12:10:57 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+28/08/2021, 12:11:58 - DEBUG - auth.service - login with username: ARC (sid: QYvJVA06VgUp8CHwL4a0IWWBbFLfuK5E)
+28/08/2021, 12:12:03 - DEBUG - auth.service - login with username: ARC (sid: QYvJVA06VgUp8CHwL4a0IWWBbFLfuK5E)
+28/08/2021, 12:12:04 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+28/08/2021, 12:12:06 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+28/08/2021, 12:12:13 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+28/08/2021, 12:12:13 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+28/08/2021, 12:12:14 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+28/08/2021, 16:52:44 - INFO - Server is running on port: 3030 
+28/08/2021, 17:02:00 - INFO - Server is running on port: 3030 
+28/08/2021, 17:02:36 - DEBUG - auth.service - login with username: Alex (sid: iQYI877sXDMBmqvUgumtGaxBUMK5TyfV)
+28/08/2021, 17:02:37 - ERROR - Failed to Login Invalid username or password (sid: iQYI877sXDMBmqvUgumtGaxBUMK5TyfV)
+28/08/2021, 17:02:42 - DEBUG - auth.service - login with username: Alex (sid: iQYI877sXDMBmqvUgumtGaxBUMK5TyfV)
+28/08/2021, 17:02:43 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+28/08/2021, 17:13:06 - INFO - Server is running on port: 3030 
+28/08/2021, 18:08:00 - DEBUG - auth.service - login with username: Alex (sid: VpwcQuqQrd86HlhZlxGR6NHUM29q4tAl)
+28/08/2021, 18:08:01 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+13/08/2022, 16:03:14 - INFO - Server is running on port: 3030 
+23/08/2022, 14:07:37 - INFO - Server is running on port: 3030 
+23/08/2022, 14:25:15 - DEBUG - auth.service - login with username: Alex (sid: 9aOMikqhHp-R1QH4gewkPFmXAqP9Nedt)
+23/08/2022, 14:25:15 - ERROR - Failed to Login Invalid username or password (sid: 9aOMikqhHp-R1QH4gewkPFmXAqP9Nedt)
+23/08/2022, 14:25:25 - DEBUG - auth.service - signup with username: alex, fullname: alex (sid: 9aOMikqhHp-R1QH4gewkPFmXAqP9Nedt)
+23/08/2022, 14:25:25 - DEBUG - auth.route - new account created: {"username":"alex","password":"$2b$10$8g5pw3UKYf6ZLZ3fJw1rmuQoW/xb/V8ltrgHE2EIP.STqJiBuezKq","fullname":"alex","isAdmin":false,"_id":"6304b925d5d9581fa08aaed7"} (sid: 9aOMikqhHp-R1QH4gewkPFmXAqP9Nedt)
+23/08/2022, 14:25:25 - DEBUG - auth.service - login with username: alex (sid: 9aOMikqhHp-R1QH4gewkPFmXAqP9Nedt)
+24/08/2022, 11:43:09 - INFO - Server is running on port: 3030 
+24/08/2022, 11:43:33 - DEBUG - auth.service - login with username: Shelter1 (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:34 - DEBUG - auth.service - login with username: Shelter1 (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:34 - ERROR - Failed to Login Invalid username or password (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:34 - ERROR - Failed to Login Invalid username or password (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:37 - DEBUG - auth.service - login with username: Shelter1 (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:37 - ERROR - Failed to Login Invalid username or password (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:41 - DEBUG - auth.service - login with username: puki (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:41 - ERROR - Failed to Login Invalid username or password (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:53 - DEBUG - auth.service - signup with username: magic, fullname: magic (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:53 - DEBUG - auth.route - new account created: {"username":"magic","password":"$2b$10$1CEJ0PJXS7YQCrXu2yOF9.TlvFu5KFtLfXQah/aQ/BwifeZntoSrK","fullname":"magic","isAdmin":false,"_id":"6305e4c981f8ec5d9c6a3e81"} (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:53 - DEBUG - auth.service - login with username: magic (sid: yliLdN6y0-jCD-ukscCbYWCSpwnfaCTf)
+24/08/2022, 11:43:53 - DEBUG - Setting socket.userId = 6305e4c981f8ec5d9c6a3e81 
+24/08/2022, 11:44:06 - DEBUG - Emiting to user socket: QRR8p 
+24/08/2022, 13:48:58 - DEBUG - auth.service - login with username: Shelter1 (sid: mVATbkK6qtR2EIvUlHBwjsCwwuH7UYmQ)
+24/08/2022, 13:48:59 - ERROR - Failed to Login Invalid username or password (sid: mVATbkK6qtR2EIvUlHBwjsCwwuH7UYmQ)
+24/08/2022, 13:49:00 - DEBUG - auth.service - login with username: Shelter1 (sid: mVATbkK6qtR2EIvUlHBwjsCwwuH7UYmQ)
+24/08/2022, 13:49:00 - ERROR - Failed to Login Invalid username or password (sid: mVATbkK6qtR2EIvUlHBwjsCwwuH7UYmQ)
+24/08/2022, 13:49:10 - DEBUG - auth.service - signup with username: yosi, fullname: yosi (sid: mVATbkK6qtR2EIvUlHBwjsCwwuH7UYmQ)
+24/08/2022, 13:49:10 - DEBUG - auth.route - new account created: {"username":"yosi","password":"$2b$10$V90hq6R2WTGW8js260RRReWhbzWD/DIFswYu4inuzfwgord70lXXy","fullname":"yosi","isAdmin":false,"_id":"6306022681f8ec5d9c6a3e83"} (sid: mVATbkK6qtR2EIvUlHBwjsCwwuH7UYmQ)
+24/08/2022, 13:49:10 - DEBUG - auth.service - login with username: yosi (sid: mVATbkK6qtR2EIvUlHBwjsCwwuH7UYmQ)
+24/08/2022, 13:49:10 - DEBUG - Setting socket.userId = 6306022681f8ec5d9c6a3e83 
+24/08/2022, 13:49:21 - DEBUG - Emiting to user socket: QRR8p 
+27/08/2022, 14:20:21 - INFO - Server is running on port: 3030 
+27/08/2022, 14:20:47 - DEBUG - auth.service - login with username: puki (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:20:48 - ERROR - Failed to Login Invalid username or password (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:20:53 - DEBUG - auth.service - login with username: Shelter1 (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:20:54 - ERROR - Failed to Login Invalid username or password (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:20:57 - DEBUG - auth.service - login with username: Shelter1 (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:20:57 - ERROR - Failed to Login Invalid username or password (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:21:03 - DEBUG - auth.service - login with username: Shelter1 (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:21:04 - ERROR - Failed to Login Invalid username or password (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:21:14 - DEBUG - auth.service - signup with username: user1, fullname: user1 (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:21:15 - DEBUG - auth.route - new account created: {"username":"user1","password":"$2b$10$BnpB4R8FaYd2BmM1pQ8SROlbKBNXiEimYVzjdkE.Tbg3oFJ.p2mEC","fullname":"user1","isAdmin":false,"_id":"6309fe2b86f4c047d82cb68a"} (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:21:15 - DEBUG - auth.service - login with username: user1 (sid: QlhvLHfhym7Ji08QgFudV_fP6UioTcGQ)
+27/08/2022, 14:21:15 - DEBUG - Setting socket.userId = 6309fe2b86f4c047d82cb68a 
+27/08/2022, 14:21:37 - DEBUG - Emiting to user socket: QRR8p 
+27/08/2022, 14:28:10 - INFO - Server is running on port: 3030 
+27/08/2022, 14:53:25 - INFO - Server is running on port: 3030 
+27/08/2022, 14:55:02 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+27/08/2022, 15:58:28 - DEBUG - auth.service - login with username: Alex (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 15:58:28 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 15:59:11 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+27/08/2022, 15:59:35 - DEBUG - auth.service - login with username: A.SOS (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 15:59:36 - DEBUG - Setting socket.userId = 60fa89a5241fde3e940b079e 
+27/08/2022, 15:59:52 - DEBUG - auth.service - login with username: ARC (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 15:59:52 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+27/08/2022, 16:01:34 - DEBUG - auth.service - login with username: ARC (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:01:34 - ERROR - Failed to Login Invalid username or password (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:01:35 - DEBUG - auth.service - login with username: ARC (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:01:35 - ERROR - Failed to Login Invalid username or password (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:01:36 - DEBUG - auth.service - login with username: ARC (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:01:36 - ERROR - Failed to Login Invalid username or password (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:01:37 - DEBUG - auth.service - login with username: ARC (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:01:37 - ERROR - Failed to Login Invalid username or password (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:28:27 - DEBUG - auth.service - login with username: Alex (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:28:27 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 16:28:46 - DEBUG - auth.service - login with username: Alex (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:28:46 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 16:31:22 - DEBUG - auth.service - login with username: Alex (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:31:23 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 16:33:11 - DEBUG - auth.service - login with username: Alex (sid: npANu7WAYsnkIz5OlxH-Ho5QoRErqSIF)
+27/08/2022, 16:33:11 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 16:46:18 - INFO - Server is running on port: 3030 
+27/08/2022, 16:46:31 - DEBUG - auth.service - login with username: Alex (sid: WqzCyqT5gmnHjTTwLPxthd3rUOJ9sNb2)
+27/08/2022, 16:46:33 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 17:11:16 - DEBUG - auth.service - login with username: Alex (sid: WqzCyqT5gmnHjTTwLPxthd3rUOJ9sNb2)
+27/08/2022, 17:11:16 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 17:12:27 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+27/08/2022, 17:12:41 - DEBUG - auth.service - login with username: ARC (sid: WqzCyqT5gmnHjTTwLPxthd3rUOJ9sNb2)
+27/08/2022, 17:12:41 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+27/08/2022, 17:12:50 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+27/08/2022, 17:12:50 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+27/08/2022, 17:12:51 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+27/08/2022, 17:13:07 - DEBUG - auth.service - login with username: Alex (sid: WqzCyqT5gmnHjTTwLPxthd3rUOJ9sNb2)
+27/08/2022, 17:13:07 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 17:13:28 - DEBUG - auth.service - login with username: ARC (sid: WqzCyqT5gmnHjTTwLPxthd3rUOJ9sNb2)
+27/08/2022, 17:13:28 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+27/08/2022, 17:13:34 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+27/08/2022, 17:13:34 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+27/08/2022, 17:13:35 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+27/08/2022, 17:22:46 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+27/08/2022, 17:23:17 - DEBUG - auth.service - login with username: Alex (sid: WqzCyqT5gmnHjTTwLPxthd3rUOJ9sNb2)
+27/08/2022, 17:23:18 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+27/08/2022, 17:25:04 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+27/08/2022, 17:25:18 - DEBUG - auth.service - login with username: magic (sid: WqzCyqT5gmnHjTTwLPxthd3rUOJ9sNb2)
+27/08/2022, 17:25:19 - DEBUG - Setting socket.userId = 6305e4c981f8ec5d9c6a3e81 
+28/08/2022, 12:23:12 - INFO - Server is running on port: 3030 
+28/08/2022, 12:51:51 - DEBUG - auth.service - login with username: Magen (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:51:52 - ERROR - Failed to Login Invalid username or password (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:51:52 - DEBUG - auth.service - login with username: Magen (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:51:52 - ERROR - Failed to Login Invalid username or password (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:51:54 - DEBUG - auth.service - login with username: Magen (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:51:54 - ERROR - Failed to Login Invalid username or password (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:52:01 - DEBUG - auth.service - login with username: Magen (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:52:01 - ERROR - Failed to Login Invalid username or password (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:52:17 - DEBUG - auth.service - login with username: Alex (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:52:17 - ERROR - Failed to Login Invalid username or password (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:52:19 - DEBUG - auth.service - login with username: Alex (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:52:19 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+28/08/2022, 12:53:19 - DEBUG - auth.service - login with username: ARC (sid: FqHrgidgCezGuToE5Hxn82mLSqKXlg7u)
+28/08/2022, 12:53:20 - DEBUG - Setting socket.userId = 60f94c893fd6aa0ea40085aa 
+28/08/2022, 12:54:06 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+28/08/2022, 12:54:06 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+28/08/2022, 12:54:07 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+28/08/2022, 14:12:05 - INFO - Server is running on port: 3030 
+28/08/2022, 14:12:50 - INFO - Server is running on port: 3030 
+28/08/2022, 14:22:16 - INFO - Server is running on port: 3030 
+28/08/2022, 14:25:39 - INFO - Server is running on port: 3030 
+28/08/2022, 14:41:13 - DEBUG - auth.service - login with username: Alex (sid: x5E4h8JVj8dvq11WVh_B8hlo1EqmjiZM)
+28/08/2022, 14:44:42 - DEBUG - auth.service - login with username: Alex (sid: x5E4h8JVj8dvq11WVh_B8hlo1EqmjiZM)
+28/08/2022, 14:49:09 - DEBUG - auth.service - login with username: Alex (sid: x5E4h8JVj8dvq11WVh_B8hlo1EqmjiZM)
+28/08/2022, 16:18:49 - INFO - Server is running on port: 3030 
+28/08/2022, 16:19:18 - INFO - Server is running on port: 3030 
+28/08/2022, 18:29:29 - INFO - Server is running on port: 3030 
+28/08/2022, 19:09:27 - INFO - Server is running on port: 3030 
+29/08/2022, 10:50:59 - INFO - Server is running on port: 3030 
+29/08/2022, 10:51:19 - INFO - Server is running on port: 3030 
+29/08/2022, 11:35:35 - INFO - Server is running on port: 3030 
+29/08/2022, 13:15:56 - DEBUG - auth.service - login with username: Alex (sid: g73AqPxgH-eyKNroUrLMC6_uijR-A3ba)
+29/08/2022, 13:32:23 - INFO - Server is running on port: 3030 
+29/08/2022, 13:33:03 - INFO - Server is running on port: 3030 
+29/08/2022, 13:33:22 - DEBUG - auth.service - login with username: Alex (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 13:33:23 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+29/08/2022, 13:33:57 - DEBUG - auth.service - login with username: Alex (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 13:34:11 - DEBUG - auth.service - login with username: Alex (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 14:50:45 - DEBUG - auth.service - login with username: Alex (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 14:50:45 - DEBUG - Setting socket.userId = 60f9648b65b490372862741c 
+29/08/2022, 14:51:35 - DEBUG - auth.service - login with username: Alex (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 15:04:35 - DEBUG - Emiting to user socket: 60fa89a5241fde3e940b079e 
+29/08/2022, 15:21:15 - DEBUG - auth.service - login with username: ARC (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 15:21:43 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+29/08/2022, 15:22:19 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+29/08/2022, 15:22:19 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+29/08/2022, 15:22:20 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+29/08/2022, 15:24:13 - DEBUG - auth.service - login with username: magic (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 15:24:26 - DEBUG - auth.service - login with username: yosi (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 15:24:38 - DEBUG - auth.service - login with username: user1 (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 15:24:48 - DEBUG - auth.service - login with username: user1 (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 15:31:56 - DEBUG - auth.service - login with username: Alex (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 15:32:12 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+29/08/2022, 15:37:04 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+29/08/2022, 15:38:58 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+29/08/2022, 15:38:58 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+29/08/2022, 15:38:59 - DEBUG - Emiting to user socket: 60f9648b65b490372862741c 
+29/08/2022, 16:41:01 - DEBUG - auth.service - login with username: Alex (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 16:47:55 - DEBUG - auth.service - login with username: ARC (sid: RarQ8ULjsnB7xsc6fkQe1U4Nfek80D-z)
+29/08/2022, 17:08:32 - INFO - Server is running on port: 3030 
+29/08/2022, 17:09:20 - ERROR - Faild to update order | TypeError: orderService.update is not a function (sid: yKJrr4r-joBJ7y_b8psmuLZWiE1ZKDFR)
+29/08/2022, 17:10:25 - ERROR - Faild to update order | TypeError: orderService.update is not a function (sid: yKJrr4r-joBJ7y_b8psmuLZWiE1ZKDFR)
+29/08/2022, 17:10:33 - INFO - Server is running on port: 3030 
+29/08/2022, 17:10:44 - ERROR - cannot add order | ReferenceError: orderToAdd is not defined (sid: sRSEbpa06F2aPMA8GI6m4HnFzOER36dF)
+29/08/2022, 17:10:44 - ERROR - Faild to update order | ReferenceError: orderToAdd is not defined (sid: sRSEbpa06F2aPMA8GI6m4HnFzOER36dF)
+29/08/2022, 17:11:21 - INFO - Server is running on port: 3030 
+29/08/2022, 17:12:07 - ERROR - cannot add order | ReferenceError: orderToAdd is not defined (sid: ila7cNvaRuxbEQCXyNrs1ddu7IbUUNtQ)
+29/08/2022, 17:12:07 - ERROR - Faild to update order | ReferenceError: orderToAdd is not defined (sid: ila7cNvaRuxbEQCXyNrs1ddu7IbUUNtQ)
+29/08/2022, 17:13:26 - ERROR - cannot add order | ReferenceError: orderToAdd is not defined (sid: ila7cNvaRuxbEQCXyNrs1ddu7IbUUNtQ)
+29/08/2022, 17:13:26 - ERROR - Faild to update order | ReferenceError: orderToAdd is not defined (sid: ila7cNvaRuxbEQCXyNrs1ddu7IbUUNtQ)
+29/08/2022, 17:13:41 - INFO - Server is running on port: 3030 
+29/08/2022, 17:13:54 - ERROR - cannot add order | ReferenceError: orderToAdd is not defined (sid: TWmILZQnb9Kx-gDiou3f_hsVvOajSxxC)
+29/08/2022, 17:13:54 - ERROR - Faild to update order | ReferenceError: orderToAdd is not defined (sid: TWmILZQnb9Kx-gDiou3f_hsVvOajSxxC)
+29/08/2022, 17:15:05 - INFO - Server is running on port: 3030 
+29/08/2022, 17:15:17 - ERROR - cannot add order | ReferenceError: orderToAdd is not defined (sid: 93hHsflPtVw7yNaG4tSHh-xBMLMwN7Bn)
+29/08/2022, 17:15:17 - ERROR - Faild to update order | ReferenceError: orderToAdd is not defined (sid: 93hHsflPtVw7yNaG4tSHh-xBMLMwN7Bn)
+29/08/2022, 17:15:46 - INFO - Server is running on port: 3030 
+29/08/2022, 17:15:48 - INFO - Server is running on port: 3030 
+29/08/2022, 17:16:01 - INFO - Server is running on port: 3030 
+29/08/2022, 17:16:07 - ERROR - cannot add order | ReferenceError: orderToAdd is not defined (sid: -2U3LQDWgrrqxS7jRYJztaTuVDVXodKz)
+29/08/2022, 17:16:07 - ERROR - Faild to update order | ReferenceError: orderToAdd is not defined (sid: -2U3LQDWgrrqxS7jRYJztaTuVDVXodKz)
+29/08/2022, 17:17:36 - INFO - Server is running on port: 3030 
+29/08/2022, 17:17:43 - INFO - Server is running on port: 3030 
+29/08/2022, 17:17:57 - INFO - Server is running on port: 3030 
+29/08/2022, 17:18:31 - INFO - Server is running on port: 3030 
+29/08/2022, 17:18:33 - INFO - Server is running on port: 3030 
+29/08/2022, 17:18:34 - INFO - Server is running on port: 3030 
+29/08/2022, 17:20:25 - INFO - Server is running on port: 3030 
+29/08/2022, 17:20:26 - INFO - Server is running on port: 3030 
+29/08/2022, 17:21:29 - INFO - Server is running on port: 3030 
+29/08/2022, 17:25:24 - INFO - Server is running on port: 3030 
+29/08/2022, 17:26:02 - INFO - Server is running on port: 3030 
+29/08/2022, 17:26:50 - INFO - Server is running on port: 3030 
+29/08/2022, 17:26:53 - INFO - Server is running on port: 3030 
+29/08/2022, 17:27:06 - INFO - Server is running on port: 3030 
+29/08/2022, 17:27:15 - ERROR - cannot add order | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: YJwHbfHN85PTndFVFuCKoUyYSl_P5rYa)
+29/08/2022, 17:27:15 - ERROR - Faild to update order | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (sid: YJwHbfHN85PTndFVFuCKoUyYSl_P5rYa)
+29/08/2022, 17:27:54 - INFO - Server is running on port: 3030 
+29/08/2022, 17:27:57 - INFO - Server is running on port: 3030 
+29/08/2022, 17:28:02 - INFO - Server is running on port: 3030 
+29/08/2022, 17:28:05 - INFO - Server is running on port: 3030 
+29/08/2022, 17:28:09 - INFO - Server is running on port: 3030 
+29/08/2022, 17:28:19 - INFO - Server is running on port: 3030 
+29/08/2022, 17:28:24 - INFO - Server is running on port: 3030 
+29/08/2022, 17:28:28 - INFO - Server is running on port: 3030 
+29/08/2022, 17:41:16 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+29/08/2022, 17:42:13 - INFO - Server is running on port: 3030 
+30/08/2022, 10:09:20 - INFO - Server is running on port: 3030 
+30/08/2022, 10:10:37 - DEBUG - auth.service - login with username: Alex (sid: kHGV6KTA_1A6ER_QzI_v8zAhpn_eJMGs)
+30/08/2022, 10:10:49 - DEBUG - auth.service - login with username: ARC (sid: kHGV6KTA_1A6ER_QzI_v8zAhpn_eJMGs)
+30/08/2022, 10:15:33 - INFO - Server is running on port: 3030 
+30/08/2022, 10:15:50 - INFO - Server is running on port: 3030 
+30/08/2022, 10:15:57 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:12 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:20 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:21 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:28 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:30 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:31 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:39 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:41 - INFO - Server is running on port: 3030 
+30/08/2022, 10:16:47 - INFO - Server is running on port: 3030 
+30/08/2022, 10:17:25 - INFO - Server is running on port: 3030 
+30/08/2022, 10:17:56 - INFO - Server is running on port: 3030 
+30/08/2022, 10:18:09 - INFO - Server is running on port: 3030 
+30/08/2022, 10:18:37 - INFO - Server is running on port: 3030 
+30/08/2022, 10:19:30 - INFO - Server is running on port: 3030 
+30/08/2022, 10:19:37 - INFO - Server is running on port: 3030 
+30/08/2022, 10:19:42 - INFO - Server is running on port: 3030 
+30/08/2022, 10:19:48 - INFO - Server is running on port: 3030 
+30/08/2022, 10:47:29 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+30/08/2022, 10:50:42 - INFO - Server is running on port: 3030 
+30/08/2022, 10:50:47 - INFO - Server is running on port: 3030 
+30/08/2022, 10:51:12 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+30/08/2022, 10:52:26 - INFO - Server is running on port: 3030 
+30/08/2022, 10:52:41 - INFO - Server is running on port: 3030 
+30/08/2022, 10:52:43 - INFO - Server is running on port: 3030 
+30/08/2022, 10:52:45 - INFO - Server is running on port: 3030 
+30/08/2022, 10:53:04 - INFO - Server is running on port: 3030 
+30/08/2022, 10:53:07 - INFO - Server is running on port: 3030 
+30/08/2022, 10:54:05 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+30/08/2022, 10:55:02 - INFO - Server is running on port: 3030 
+30/08/2022, 11:15:07 - INFO - Server is running on port: 3030 
+30/08/2022, 11:15:38 - INFO - Server is running on port: 3030 
+30/08/2022, 11:15:40 - INFO - Server is running on port: 3030 
+30/08/2022, 11:15:43 - INFO - Server is running on port: 3030 
+30/08/2022, 11:15:46 - INFO - Server is running on port: 3030 
+30/08/2022, 11:37:08 - DEBUG - Emiting to user socket: 60f94c893fd6aa0ea40085aa 
+30/08/2022, 13:01:15 - INFO - Server is running on port: 3030 
+30/08/2022, 13:01:16 - INFO - Server is running on port: 3030 
+30/08/2022, 13:01:18 - INFO - Server is running on port: 3030 
+30/08/2022, 13:01:20 - INFO - Server is running on port: 3030 
+30/08/2022, 13:01:22 - INFO - Server is running on port: 3030 
+30/08/2022, 13:01:24 - INFO - Server is running on port: 3030 
+30/08/2022, 13:20:30 - INFO - Server is running on port: 3030 
+30/08/2022, 13:20:36 - INFO - Server is running on port: 3030 
+30/08/2022, 13:21:18 - INFO - Server is running on port: 3030 
+30/08/2022, 13:21:23 - INFO - Server is running on port: 3030 
+30/08/2022, 13:21:32 - INFO - Server is running on port: 3030 
+30/08/2022, 13:21:51 - INFO - Server is running on port: 3030 
+30/08/2022, 13:22:06 - INFO - Server is running on port: 3030 
+30/08/2022, 13:22:11 - INFO - Server is running on port: 3030 
+30/08/2022, 13:22:17 - INFO - Server is running on port: 3030 
+30/08/2022, 13:22:25 - INFO - Server is running on port: 3030 
+30/08/2022, 13:22:27 - INFO - Server is running on port: 3030 
+30/08/2022, 13:24:48 - INFO - Server is running on port: 3030 
+30/08/2022, 13:24:52 - INFO - Server is running on port: 3030 
+30/08/2022, 13:25:05 - INFO - Server is running on port: 3030 
+30/08/2022, 13:25:10 - INFO - Server is running on port: 3030 
+30/08/2022, 13:25:10 - INFO - Server is running on port: 3030 
+30/08/2022, 13:25:41 - INFO - Server is running on port: 3030 
+30/08/2022, 13:26:32 - INFO - Server is running on port: 3030 
+30/08/2022, 13:26:37 - INFO - Server is running on port: 3030 
+30/08/2022, 13:26:39 - INFO - Server is running on port: 3030 
+30/08/2022, 13:26:43 - INFO - Server is running on port: 3030 
+30/08/2022, 13:26:46 - INFO - Server is running on port: 3030 
+30/08/2022, 13:26:47 - INFO - Server is running on port: 3030 
+30/08/2022, 13:34:23 - INFO - Server is running on port: 3030 
+30/08/2022, 13:34:24 - INFO - Server is running on port: 3030 
+30/08/2022, 13:53:25 - INFO - Server is running on port: 3030 
+31/08/2022, 10:12:12 - INFO - Server is running on port: 3030 
+31/08/2022, 13:09:35 - INFO - Server is running on port: 3030 
+31/08/2022, 13:15:41 - INFO - Server is running on port: 3030 
+31/08/2022, 13:36:57 - INFO - Server is running on port: 3030 
+31/08/2022, 14:57:03 - INFO - Server is running on port: 3030 
+31/08/2022, 14:59:28 - DEBUG - auth.service - login with username: Alex (sid: Q7DWsZYI0-Gof-vw7I3URzUp1VrV26RF)
+31/08/2022, 15:09:57 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: Q7DWsZYI0-Gof-vw7I3URzUp1VrV26RF)
+31/08/2022, 15:10:07 - INFO - Server is running on port: 3030 
+31/08/2022, 15:10:11 - ERROR - cannot find pets (sid: oIR2rzJoC0vBcdvrFD4PqDVMwKBIuFfB)
+31/08/2022, 15:10:11 - ERROR - Failed to get pets | ReferenceError: logger is not defined (sid: oIR2rzJoC0vBcdvrFD4PqDVMwKBIuFfB)
+31/08/2022, 15:10:11 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: hrCQnLMjKMegNXd0q4s0INweUnabG_iB)
+31/08/2022, 15:10:15 - ERROR - cannot find pets (sid: hrCQnLMjKMegNXd0q4s0INweUnabG_iB)
+31/08/2022, 15:10:15 - ERROR - Failed to get pets | ReferenceError: logger is not defined (sid: hrCQnLMjKMegNXd0q4s0INweUnabG_iB)
+31/08/2022, 15:10:15 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: hrCQnLMjKMegNXd0q4s0INweUnabG_iB)
+31/08/2022, 15:10:23 - ERROR - cannot find pets (sid: hrCQnLMjKMegNXd0q4s0INweUnabG_iB)
+31/08/2022, 15:10:23 - ERROR - Failed to get pets | ReferenceError: logger is not defined (sid: hrCQnLMjKMegNXd0q4s0INweUnabG_iB)
+31/08/2022, 15:10:23 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: hrCQnLMjKMegNXd0q4s0INweUnabG_iB)
+31/08/2022, 15:10:41 - ERROR - cannot find pets (sid: cwdUAP1iyv4_ygzeIRHYG1UNXgqtn0Xr)
+31/08/2022, 15:10:41 - ERROR - Failed to get pets | ReferenceError: logger is not defined (sid: cwdUAP1iyv4_ygzeIRHYG1UNXgqtn0Xr)
+31/08/2022, 15:10:41 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 15:11:05 - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:36:50 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:38:02 - DEBUG - auth.service - login with username: ARC (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:38:03 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:39:07 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:39:07 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:39:24 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:39:24 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:39:25 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 16:39:25 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:02:27 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:02:41 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:02:47 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:02:48 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:03:13 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:03:13 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:03:20 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:03:20 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:04:50 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:04:51 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:04:55 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:04:55 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:04:58 - DEBUG - auth.service - login with username: Alex (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:04:58 - ERROR - Failed to Login Invalid username or password (sid: HUBBFSJ11CFzJN4O2zJEh5X-S-NsYBi5)
+31/08/2022, 17:08:58 - INFO - Server is running on port: 3030 
+31/08/2022, 17:11:43 - DEBUG - auth.service - login with username: alex (sid: BnoQK-GMIzGtaOJcG_E0cQt5arFRiK3H)
+31/08/2022, 17:18:55 - DEBUG - auth.service - login with username: alex (sid: BnoQK-GMIzGtaOJcG_E0cQt5arFRiK3H)
+31/08/2022, 17:48:01 - DEBUG - auth.service - login with username: yosi (sid: BnoQK-GMIzGtaOJcG_E0cQt5arFRiK3H)
+31/08/2022, 18:10:01 - DEBUG - auth.service - login with username: Alex (sid: BnoQK-GMIzGtaOJcG_E0cQt5arFRiK3H)
+31/08/2022, 18:47:37 - DEBUG - auth.service - login with username: ARC (sid: BnoQK-GMIzGtaOJcG_E0cQt5arFRiK3H)
+31/08/2022, 20:38:30 - INFO - Server is running on port: 3030 
+01/09/2022, 8:27:01 - INFO - Server is running on port: 3030 
+01/09/2022, 9:12:36 - DEBUG - auth.service - login with username: Alex (sid: ngTjNrGHPUW_Yu_oBsQd7SxAkoYfJsCo)
+01/09/2022, 11:21:13 - DEBUG - auth.service - login with username: Alex (sid: ngTjNrGHPUW_Yu_oBsQd7SxAkoYfJsCo)
+01/09/2022, 11:55:20 - DEBUG - auth.service - login with username: alex (sid: ngTjNrGHPUW_Yu_oBsQd7SxAkoYfJsCo)
+01/09/2022, 11:55:54 - DEBUG - auth.service - login with username: Alex (sid: ngTjNrGHPUW_Yu_oBsQd7SxAkoYfJsCo)
+01/09/2022, 11:59:24 - DEBUG - auth.service - login with username: ARC (sid: ngTjNrGHPUW_Yu_oBsQd7SxAkoYfJsCo)
+01/09/2022, 12:04:04 - INFO - Server is running on port: 3030 
+01/09/2022, 12:05:09 - INFO - Server is running on port: 3030 
+01/09/2022, 14:24:05 - INFO - Server is running on port: 3030 
+01/09/2022, 14:24:15 - INFO - Server is running on port: 3030 
+01/09/2022, 14:25:04 - DEBUG - auth.service - login with username: Alex (sid: z_4dWtJjZDJtl6G3aBUwQVsKb4NekeK2)
+01/09/2022, 14:27:14 - INFO - Server is running on port: 3030 
+01/09/2022, 14:28:39 - INFO - Server is running on port: 3030 
+01/09/2022, 14:29:30 - INFO - Server is running on port: 3030 
+01/09/2022, 15:21:20 - DEBUG - auth.service - login with username: ARC (sid: 4vSxYn26kPKKkfQcvdCIAPL3WHShSgtZ)
+01/09/2022, 15:46:05 - DEBUG - auth.service - login with username: Alex (sid: 4vSxYn26kPKKkfQcvdCIAPL3WHShSgtZ)
+01/09/2022, 15:50:58 - INFO - Server is running on port: 3030 
+01/09/2022, 16:19:46 - INFO - Server is running on port: 3030 
+01/09/2022, 16:20:41 - DEBUG - auth.service - login with username: ARC (sid: cJ7Rz93MS7QpMMiUzhL5fXfjcMcL5XZD)
+01/09/2022, 16:22:24 - INFO - Server is running on port: 3030 
+01/09/2022, 16:22:48 - INFO - Server is running on port: 3030 
+01/09/2022, 16:28:33 - DEBUG - auth.service - login with username: ARC (sid: rVZG6-3W19jckeEsWG1Wvp_iiW4ed5MG)
+01/09/2022, 16:30:53 - DEBUG - auth.service - login with username: Alex (sid: rVZG6-3W19jckeEsWG1Wvp_iiW4ed5MG)
+01/09/2022, 21:08:44 - DEBUG - auth.service - login with username: Alex (sid: rVZG6-3W19jckeEsWG1Wvp_iiW4ed5MG)
+03/09/2022, 14:16:56 - INFO - Server is running on port: 3030 
+03/09/2022, 14:24:33 - INFO - Server is running on port: 3030 
+03/09/2022, 14:29:16 - INFO - Server is running on port: 3030 
+03/09/2022, 14:29:26 - DEBUG - auth.service - login with username: Alex (sid: G_TyOT2JIXWjPbDsT3A-uxCNCLfUuHp3)
+03/09/2022, 14:30:00 - INFO - Server is running on port: 3030 
+03/09/2022, 14:30:59 - DEBUG - auth.service - login with username: ARC (sid: BeJJeQykBVlQ2K5KiIOUBMFqE5xLouYb)
+04/09/2022, 11:03:57 - INFO - Server is running on port: 3030 
+04/09/2022, 11:12:50 - DEBUG - auth.service - login with username: Alex (sid: PRgcdDRs7xnIimUtnTs8UnC20h7Dzbqd)
+04/09/2022, 16:58:26 - INFO - Server is running on port: 3030 
+04/09/2022, 21:07:30 - INFO - Server is running on port: 3030 
+05/09/2022, 10:10:39 - INFO - Server is running on port: 3030 
+05/09/2022, 11:02:11 - INFO - Server is running on port: 3030 
+05/09/2022, 11:30:51 - INFO - Server is running on port: 3030 
+05/09/2022, 11:44:14 - INFO - Server is running on port: 3030 
+05/09/2022, 14:16:31 - DEBUG - auth.service - login with username: Alex (sid: GGJfD9y6XP2Qtu0Zt-BaCe7XnvXNtS53)
+05/09/2022, 19:42:12 - INFO - Server is running on port: 3030 
+05/09/2022, 19:45:06 - DEBUG - auth.service - login with username: Alex (sid: mtPixk-0ydsiA7Z97X_Pn_UoV9kNAJsE)
+05/09/2022, 19:59:01 - DEBUG - auth.service - login with username: Alex (sid: mtPixk-0ydsiA7Z97X_Pn_UoV9kNAJsE)
+06/09/2022, 21:21:16 - INFO - Server is running on port: 3030 
+06/09/2022, 21:22:47 - DEBUG - auth.service - login with username: Alex (sid: _86QB1t9p6_OiWlAzT0ROgAZMy2pzpGt)
+06/09/2022, 21:23:27 - INFO - Server is running on port: 3030 
+06/09/2022, 22:04:23 - INFO - Server is running on port: 3030 
+07/09/2022, 7:48:56 - INFO - Server is running on port: 3030 
+07/09/2022, 7:49:40 - DEBUG - auth.service - login with username: Alex (sid: iLDhFG5WNcjpfi2VKzPE9xZqlKr5D6br)
+07/09/2022, 8:08:07 - INFO - Server is running on port: 3030 
+07/09/2022, 8:10:07 - INFO - Server is running on port: 3030 
+07/09/2022, 8:11:22 - DEBUG - auth.service - login with username: Alex (sid: MJYp_gfxrDDgrze2MYw3hmnxGqNQIlQ_)
+07/09/2022, 8:11:22 - ERROR - Failed to Login Invalid username or password (sid: MJYp_gfxrDDgrze2MYw3hmnxGqNQIlQ_)
+07/09/2022, 8:11:25 - DEBUG - auth.service - login with username: Alex (sid: MJYp_gfxrDDgrze2MYw3hmnxGqNQIlQ_)
+07/09/2022, 8:11:47 - DEBUG - auth.service - login with username: Alex (sid: MJYp_gfxrDDgrze2MYw3hmnxGqNQIlQ_)
+07/09/2022, 8:13:34 - DEBUG - auth.service - login with username: ARC (sid: MJYp_gfxrDDgrze2MYw3hmnxGqNQIlQ_)
+07/09/2022, 19:15:59 - INFO - Server is running on port: 3030 
+08/09/2022, 10:01:07 - INFO - Server is running on port: 3030 
+08/09/2022, 10:02:45 - DEBUG - auth.service - login with username: Alex (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 11:13:33 - DEBUG - auth.service - login with username: A.SOS (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 11:13:59 - DEBUG - auth.service - login with username: P2S (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 11:21:54 - DEBUG - auth.service - login with username: ARC (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 11:22:16 - DEBUG - auth.service - login with username: Alex (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 11:55:41 - DEBUG - auth.service - login with username: Alex (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 12:00:48 - DEBUG - auth.service - login with username: Alex (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 12:21:28 - DEBUG - auth.service - login with username: ARC (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 12:32:39 - DEBUG - auth.service - login with username: Alex (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 12:32:39 - ERROR - Failed to Login Invalid username or password (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 12:32:41 - DEBUG - auth.service - login with username: Alex (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 12:42:25 - DEBUG - auth.service - login with username: A.SOS (sid: Tp54YF8Sir30HtG_KwLlpx1TtZmqm_hB)
+08/09/2022, 12:59:42 - INFO - Server is running on port: 3030 
+08/09/2022, 13:05:00 - INFO - Server is running on port: 3030 
+08/09/2022, 14:11:08 - INFO - Server is running on port: 3030 
+08/09/2022, 14:11:42 - INFO - Server is running on port: 3030 
+08/09/2022, 14:17:58 - INFO - Server is running on port: 3030 
+08/09/2022, 14:20:01 - INFO - Server is running on port: 3030 
+08/09/2022, 17:50:49 - INFO - Server is running on port: 3030 
+08/09/2022, 17:51:43 - DEBUG - auth.service - login with username: Alex (sid: njIBV09yiaVYLV853Oe2TYsb9JfFCmG6)
+08/09/2022, 17:52:38 - DEBUG - auth.service - login with username: P2S (sid: njIBV09yiaVYLV853Oe2TYsb9JfFCmG6)
+08/09/2022, 18:01:42 - DEBUG - auth.service - login with username: P2S (sid: njIBV09yiaVYLV853Oe2TYsb9JfFCmG6)
+08/09/2022, 18:01:57 - DEBUG - auth.service - login with username: Alex (sid: njIBV09yiaVYLV853Oe2TYsb9JfFCmG6)
+08/09/2022, 18:02:28 - DEBUG - auth.service - login with username: ARC (sid: njIBV09yiaVYLV853Oe2TYsb9JfFCmG6)
+08/09/2022, 18:32:14 - INFO - Server is running on port: 3030 
+08/09/2022, 18:52:44 - INFO - Server is running on port: 3030 
+08/09/2022, 18:59:39 - INFO - Server is running on port: 3030 
+08/09/2022, 20:10:46 - INFO - Server is running on port: 3030 
+08/09/2022, 20:11:00 - DEBUG - auth.service - login with username: Alex (sid: lQxjHYAc_QMKaJ5KKCrze6VI6z77yylt)
+08/09/2022, 20:22:00 - INFO - Server is running on port: 3030 
+08/09/2022, 20:22:01 - INFO - Server is running on port: 3030 
+08/09/2022, 20:40:04 - INFO - Server is running on port: 3030 
+08/09/2022, 20:44:41 - INFO - Server is running on port: 3030 
+08/09/2022, 20:44:58 - DEBUG - auth.service - login with username: Alex (sid: RRgjq92IjZywLqlE68W17BUz3aAfwc0T)
+08/09/2022, 20:45:20 - DEBUG - auth.service - login with username: ARC (sid: RRgjq92IjZywLqlE68W17BUz3aAfwc0T)
+11/09/2022, 18:58:40 - INFO - Server is running on port: 3030 
+11/09/2022, 19:14:04 - INFO - Server is running on port: 3030 
+11/09/2022, 19:15:38 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:17:12 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:18:15 - DEBUG - auth.service - login with username: ARC (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:22:40 - DEBUG - auth.service - signup with username: Alex, fullname: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:22:40 - DEBUG - auth.route - new account created: {"username":"Alex","password":"$2b$10$GwZHY5M/A6sKRKjBkhqYTOsoKVjlkbt2UM10npjcO5Vw1Yvc8E0oK","fullname":"Alex","isAdmin":false,"_id":"631e0b50fd25531c64e2e016"} (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:22:40 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:23:10 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:11 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:30 - DEBUG - auth.service - signup with username: Alex, fullname: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:30 - DEBUG - auth.route - new account created: {"username":"Alex","password":"$2b$10$T7gkRM6/1B9ECUBGuTeZROIui.s1kZNXt4Hdv2cCqqlF7d9gkcwO6","fullname":"Alex","isAdmin":false,"_id":"631e0bbefd25531c64e2e017"} (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:30 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:30 - ERROR - Failed to signup Invalid username or password (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:32 - DEBUG - auth.service - signup with username: Alex, fullname: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:32 - DEBUG - auth.route - new account created: {"username":"Alex","password":"$2b$10$rHfQc8gwZZoliygWUBDW7.6nGsERrlx72y7aLTj0AKXOq10vM8Tue","fullname":"Alex","isAdmin":false,"_id":"631e0bc0fd25531c64e2e018"} (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:32 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:32 - ERROR - Failed to signup Invalid username or password (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:34 - DEBUG - auth.service - signup with username: Alex, fullname: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:34 - DEBUG - auth.route - new account created: {"username":"Alex","password":"$2b$10$VFGPOaifpHQkcsSwf57v4O0atQaCfy/myQjpuBNdpbd9lTgTe3cs6","fullname":"Alex","isAdmin":false,"_id":"631e0bc2fd25531c64e2e019"} (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:34 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:34 - ERROR - Failed to signup Invalid username or password (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:43 - DEBUG - auth.service - signup with username: Alex, fullname: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:43 - DEBUG - auth.route - new account created: {"username":"Alex","password":"$2b$10$rCyiA8SZNv1jvqTI2BjixOgquieE2ZANeSOkdJKVCxByDdgFYEyg6","fullname":"Alex","isAdmin":false,"_id":"631e0bcbfd25531c64e2e01a"} (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:24:43 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:25:01 - DEBUG - auth.service - signup with username: STAM, fullname: STAM (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:25:01 - DEBUG - auth.route - new account created: {"username":"STAM","password":"$2b$10$xxyntIKVZNj82anH/vJSn.ls99JKr26VwcSXLGAkUaPjNGaTWk1jm","fullname":"STAM","isAdmin":false,"_id":"631e0bddfd25531c64e2e01b"} (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:25:01 - DEBUG - auth.service - login with username: STAM (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:25:53 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+11/09/2022, 19:28:03 - DEBUG - auth.service - login with username: Alex (sid: Dd39QpuJltIHDhPMSubVNWEJGNwaHpz7)
+26/09/2022, 10:33:31 - INFO - Server is running on port: 3030 
+26/09/2022, 10:43:15 - INFO - Server is running on port: 3030 
