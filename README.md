@@ -22,7 +22,7 @@ FurrFriends is a fullstack pet adoption app.<br/>
 * Chart.js 
 * Element ui 
 * Sass
-* Socket io 
+* Socket.io 
 
 #### Backend:
 * Node.js 
